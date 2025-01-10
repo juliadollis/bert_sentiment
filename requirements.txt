@@ -1,0 +1,8 @@
+torch
+torchvision
+regex
+requests
+tqdm
+numpy
+scikit-learn
+datasets
