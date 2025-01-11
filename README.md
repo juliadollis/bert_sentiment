@@ -6,10 +6,10 @@ Este é um projeto de implementação de um modelo estilo BERT que utiliza o dat
 
 Siga os passos abaixo para utilizar o projeto no Google Colab:
 
-1.Abra o Google Colab e crie um Novo Projeto
+1. Abra o Google Colab e crie um Novo Projeto
 
 
-2.Na barra superior selecione "Tempo de Execução" e depois "Alterar tipo de ambiente de execução" e escolha alguma GPU disponível
+2. Na barra superior selecione "Tempo de Execução" e depois "Alterar tipo de ambiente de execução" e escolha alguma GPU disponível
 
 
 3. Clone o repositório:
